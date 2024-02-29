@@ -1,6 +1,6 @@
 # Asset Management REST API
 
-This is a REST API for managing assets in a company.
+This is a REST API based app for managing assets in a company.
 
 ## Tech Stack
 
